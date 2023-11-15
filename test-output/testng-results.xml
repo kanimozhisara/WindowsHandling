@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-17T03:08:01 PDT" name="Default suite" finished-at="2023-10-17T03:08:16 PDT" duration-ms="14365">
+    <groups>
+    </groups>
+    <test started-at="2023-10-17T03:08:01 PDT" name="Default test" finished-at="2023-10-17T03:08:16 PDT" duration-ms="14365">
+      <class name="com.test.UpdateXlSheet">
+        <test-method signature="tc1(java.lang.String,java.lang.String)[pri:0, instance:com.test.UpdateXlSheet@a1153bc]" started-at="2023-10-17T03:08:01 PDT" name="tc1" data-provider="loginData" finished-at="2023-10-17T03:08:09 PDT" duration-ms="8033" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[41235]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc1(java.lang.String,java.lang.String)[pri:0, instance:com.test.UpdateXlSheet@a1153bc]" started-at="2023-10-17T03:08:09 PDT" name="tc1" data-provider="loginData" finished-at="2023-10-17T03:08:16 PDT" duration-ms="6202" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[78945]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- com.test.UpdateXlSheet -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
